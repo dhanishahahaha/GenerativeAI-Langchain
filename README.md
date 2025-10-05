@@ -8,5 +8,8 @@
   4. Indexes
   5. Memory
   6. Agents
+
+* Language Models - AI systems designed to process, generate and understand natural language text. They are of 2 types - LLMs and Chat Models
+* Chat Models are fine tuned on chat datasets , supports conversational history , understands "system" "user and "assistant" roles. They are optimized for multiturn conversations.
  
   
